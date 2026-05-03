@@ -34,5 +34,5 @@ Demonstrates skills in analytics, visualization, and storytelling
 
 **📸 Dashboard Screenshots**
 
-![Dashboard Overview]((https://i.ibb.co/6c0Yw0R/image.png))
-![Team Insights]((https://i.ibb.co/0j8kJzF/image.png))
+![Dashboard Overview](https://i.ibb.co/6c0Yw0R/image.png)
+![Team Insights](https://i.ibb.co/0j8kJzF/image.png)
