@@ -1,47 +1,40 @@
-**📊 IPL Data Analysis Dashboard**
+# 📊 IPL Data Analysis Dashboard
 
-An interactive Power BI dashboard designed to analyze IPL data and deliver actionable insights on player performance, team strategies, and match outcomes across seasons.
+An interactive Power BI dashboard analyzing IPL data to uncover insights on player performance, team trends, and match outcomes across seasons.
 
-**🚀 Key Features**
+---
 
-🏆 Orange Cap & Purple Cap Analysis – Identify top performers each season
+## 🚀 Key Features
+- 🏆 Orange Cap & Purple Cap analysis  
+- 📈 Player stats (runs, wickets, boundaries)  
+- 🏏 Match & season insights  
+- 📊 Team performance comparison  
+- 🖼️ Dynamic visuals with player images  
 
-📈 Player Metrics – Runs, wickets, strike rate, boundaries (4s & 6s)
+---
 
-🏏 Match Insights – Season-wise trends and match outcomes
+## 🛠️ Tech Stack
+- Power BI  
+- DAX  
+- Data Modeling  
 
-🧠 Team Analysis – Performance comparison and win patterns
+---
 
-🖼️ Dynamic UI – Interactive visuals with player images and filters
+## 📂 Dataset
+- Ball-by-ball IPL data  
+- Match-level data  
+- Player details  
 
-**🛠️ Tech Stack**
+---
 
-Power BI – Data visualization
+## 🎯 Objective
+To build a data-driven dashboard for analyzing IPL trends and player performance using visual analytics.
 
-DAX – Advanced calculations
+---
 
-Data Modeling – Relationship building & optimization
-
-**📂 Dataset**
-
-Ball-by-ball IPL dataset
-
-Match-level data (season, teams, results)
-
-Player data (names, images, roles)
-
-**🎯 Project Objective**
-
-To build a data-driven sports analytics solution that transforms raw IPL data into meaningful insights using interactive dashboards.
-
-**💡 Highlights**
-
-Implemented complex DAX measures for real-time insights
-
-Designed interactive dashboards for better decision-making
-
-Applied data modeling techniques for efficient querying
-
-Demonstrates skills in analytics, visualization, and storytelling
-
+## 💡 Highlights 
+- Built advanced DAX measures for dynamic insights  
+- Designed interactive and user-friendly dashboards  
+- Applied data modeling for efficient performance  
+- Demonstrates strong analytics & visualization skills  
 
