@@ -27,12 +27,10 @@ Player data (names, images, roles)
 To build a data-driven sports analytics solution that transforms raw IPL data into meaningful insights using interactive dashboards.
 
 **💡 Highlights**
+
 Implemented complex DAX measures for real-time insights
 Designed interactive dashboards for better decision-making
 Applied data modeling techniques for efficient querying
 Demonstrates skills in analytics, visualization, and storytelling
 
-**📸 Dashboard Screenshots**
 
-![Dashboard Overview](https://i.ibb.co/6c0Yw0R/image.png)
-![Team Insights](https://i.ibb.co/0j8kJzF/image.png)
